@@ -1,2 +1,5 @@
-# portfolio-3d
-My portfolio using Three and React
+# Roberto
+
+# Change logo by 'R'
+
+# in file src/constants/index.js -> I can change my work experience
