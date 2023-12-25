@@ -23,6 +23,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  express,
+  prisma,
   foodordering,
 } from "../assets";
 
@@ -43,20 +45,21 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer with React and Next",
+    title: "Web Developement with React 18 and Next 14, 13, 12",
     icon: web,
   },
+
   {
-    title: "React Native Developer",
-    icon: mobile,
-  },
-  {
-    title: "Backend Developer",
+    title: "Backend Development with Node/Express, MongoDB, PostgreSQL, MySQL, Prisma ORM",
     icon: backend,
   },
   {
-    title: "Data Structures and Algorithms",
+    title: "Data Structures and Algorithms from Leetcode",
     icon: leetcode,
+  },
+  {
+    title: "React Native Development",
+    icon: mobile,
   },
 ];
 
@@ -98,8 +101,16 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: "MongoDB",
+    name: "Express",
+    icon: express,
+  },
+  {
+    name: "Mongodb",
     icon: mongodb,
+  },
+  {
+    name: "Prisma",
+    icon: prisma,
   },
   {
     name: "Three JS",
@@ -121,50 +132,47 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Teacher of Backend",
+    company_name: "College of Software in Valencia",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jan 2000 - Sept 2019",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Creating Databases in PostgreSQL and MySQL",
+      "Data Manipulation in the Databases in PostgreSQL and MySQL",
+      "Administration of Databases in PostgreSQL and MySQL",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Teacher of FrontEnd",
+    company_name: "College of Software in Valencia",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Oct 2019 - Sept 2022 ",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Teaching and Developing in Javascript",
+      "Teaching and Developing in React",
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
+    title: "Teacher of BackEnd and FullStack",
+    company_name: "College of Software in Valencia",
+    icon: shopify,
+    iconBg: "#383E56",
+    date: "Oct 2022 - Present",
+    points: [
+      "Teaching and Developing in Node/Express and MongoDB",
+      "Teaching and Developing in Next and mongoose/MongoDB",
+      "Teaching and Developing in Next and Prisma/MongoDB",
+      "Teaching and Developing in Next and Prisma/MySQL and PostgreSQL",
+    ],
+  },
+  {
+    title: "Full stack Developer Remote",
+    company_name: "Zataca",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Oct 2022 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -205,7 +213,7 @@ const projects = [
   {
     name: "Food ordering",
     description:
-      "Web application to sell food developed with Next 14",
+      "Web application to sell food developed with Next 14, Tailwind, Mongoose/MongoDB and you can make payments with Stripe",
     tags: [
       {
         name: "Next 14",
@@ -227,7 +235,6 @@ const projects = [
     image: foodordering,
     source_code_link: "https://github.com/web-roberto/rob-food-ordering",
     demo_link:  "https://rob-food-ordering.vercel.app/",
-
   },
   {
     
