@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  foodordering,
 } from "../assets";
 
 export const navLinks = [
@@ -223,7 +224,7 @@ const projects = [
         color: "yellow-text-gradient",
       },
     ],
-    image: food-ordering,
+    image: foodordering,
     source_code_link: "https://github.com/web-roberto/rob-food-ordering",
     demo_link:  "https://rob-food-ordering.vercel.app/",
 
