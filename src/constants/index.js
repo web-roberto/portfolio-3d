@@ -202,6 +202,34 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Food ordering",
+    description:
+      "Web application to sell food developed with Next 14",
+    tags: [
+      {
+        name: "Next 14",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Tailwind",
+        color: "green-text-gradient",
+      },
+      {
+        name: "MongoDb",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Stripe",
+        color: "yellow-text-gradient",
+      },
+    ],
+    image: food-ordering,
+    source_code_link: "https://github.com/web-roberto/rob-food-ordering",
+    demo_link:  "https://rob-food-ordering.vercel.app/",
+
+  },
+  {
+    
     name: "Car Rent",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
@@ -224,29 +252,7 @@ const projects = [
     demo_link:  "https://google.com/",
 
   },
-  {
-    name: "Job IT",
-    description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/",
-    demo_link:  "https://google.com/",
 
-  },
   {
     name: "Trip Guide",
     description:
