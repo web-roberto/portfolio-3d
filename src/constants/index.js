@@ -237,190 +237,213 @@ const projects = [
     demo_link:  "https://rob-food-ordering.vercel.app/",
   },
   {
-    
-    name: "Car Rent",
+    name: "Food ordering",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web application to sell food developed with Next 14, Tailwind, Mongoose/MongoDB and you can make payments with Stripe",
     tags: [
       {
-        name: "react",
+        name: "Next 14",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "MongoDb",
         color: "pink-text-gradient",
       },
+      {
+        name: "Stripe",
+        color: "yellow-text-gradient",
+      },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
-    demo_link:  "https://google.com/",
-
+    image: foodordering,
+    source_code_link: "https://github.com/web-roberto/rob-food-ordering",
+    demo_link:  "https://rob-food-ordering.vercel.app/",
   },
 
   {
-    name: "Trip Guide",
+    name: "Food ordering",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Web application to sell food developed with Next 14, Tailwind, Mongoose/MongoDB and you can make payments with Stripe",
     tags: [
       {
-        name: "nextjs",
+        name: "Next 14",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "MongoDb",
         color: "pink-text-gradient",
       },
+      {
+        name: "Stripe",
+        color: "yellow-text-gradient",
+      },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-    demo_link:  "https://google.com/",
-
+    image: foodordering,
+    source_code_link: "https://github.com/web-roberto/rob-food-ordering",
+    demo_link:  "https://rob-food-ordering.vercel.app/",
   },
   {
-    name: "Car Rent",
+    name: "Food ordering",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web application to sell food developed with Next 14, Tailwind, Mongoose/MongoDB and you can make payments with Stripe",
     tags: [
       {
-        name: "react",
+        name: "Next 14",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "MongoDb",
         color: "pink-text-gradient",
       },
+      {
+        name: "Stripe",
+        color: "yellow-text-gradient",
+      },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
-    demo_link:  "https://google.com/",
-
+    image: foodordering,
+    source_code_link: "https://github.com/web-roberto/rob-food-ordering",
+    demo_link:  "https://rob-food-ordering.vercel.app/",
   },
   {
-    name: "Job IT",
+    name: "Food ordering",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application to sell food developed with Next 14, Tailwind, Mongoose/MongoDB and you can make payments with Stripe",
     tags: [
       {
-        name: "react",
+        name: "Next 14",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "MongoDb",
         color: "pink-text-gradient",
       },
+      {
+        name: "Stripe",
+        color: "yellow-text-gradient",
+      },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
-    demo_link:  "https://google.com/",
-
+    image: foodordering,
+    source_code_link: "https://github.com/web-roberto/rob-food-ordering",
+    demo_link:  "https://rob-food-ordering.vercel.app/",
   },
   {
-    name: "Trip Guide",
+    name: "Food ordering",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Web application to sell food developed with Next 14, Tailwind, Mongoose/MongoDB and you can make payments with Stripe",
     tags: [
       {
-        name: "nextjs",
+        name: "Next 14",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "MongoDb",
         color: "pink-text-gradient",
       },
+      {
+        name: "Stripe",
+        color: "yellow-text-gradient",
+      },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-    demo_link:  "https://google.com/",
-
+    image: foodordering,
+    source_code_link: "https://github.com/web-roberto/rob-food-ordering",
+    demo_link:  "https://rob-food-ordering.vercel.app/",
   },
   {
-    name: "Car Rent",
+    name: "Food ordering",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web application to sell food developed with Next 14, Tailwind, Mongoose/MongoDB and you can make payments with Stripe",
     tags: [
       {
-        name: "react",
+        name: "Next 14",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "MongoDb",
         color: "pink-text-gradient",
       },
+      {
+        name: "Stripe",
+        color: "yellow-text-gradient",
+      },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
-    demo_link:  "https://google.com/",
-
+    image: foodordering,
+    source_code_link: "https://github.com/web-roberto/rob-food-ordering",
+    demo_link:  "https://rob-food-ordering.vercel.app/",
   },
   {
-    name: "Job IT",
+    name: "Food ordering",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application to sell food developed with Next 14, Tailwind, Mongoose/MongoDB and you can make payments with Stripe",
     tags: [
       {
-        name: "react",
+        name: "Next 14",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "MongoDb",
         color: "pink-text-gradient",
       },
+      {
+        name: "Stripe",
+        color: "yellow-text-gradient",
+      },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
-    demo_link:  "https://google.com/",
-
+    image: foodordering,
+    source_code_link: "https://github.com/web-roberto/rob-food-ordering",
+    demo_link:  "https://rob-food-ordering.vercel.app/",
   },
   {
-    name: "Trip Guide",
+    name: "Food ordering",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Web application to sell food developed with Next 14, Tailwind, Mongoose/MongoDB and you can make payments with Stripe",
     tags: [
       {
-        name: "nextjs",
+        name: "Next 14",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "MongoDb",
         color: "pink-text-gradient",
       },
+      {
+        name: "Stripe",
+        color: "yellow-text-gradient",
+      },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-    demo_link:  "https://google.com/",
-
+    image: foodordering,
+    source_code_link: "https://github.com/web-roberto/rob-food-ordering",
+    demo_link:  "https://rob-food-ordering.vercel.app/",
   },
 ];
 
